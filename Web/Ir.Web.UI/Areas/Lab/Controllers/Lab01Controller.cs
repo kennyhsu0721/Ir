@@ -9,7 +9,7 @@ using Microsoft.AspNet.Mvc;
 namespace Ir.Web.UI.Areas.Lab1.Controllers
 {
     [Area("Lab")]
-    public class Lab1Controller : Controller
+    public class Lab01Controller : Controller
     {
         // GET: /<controller>/
         public IActionResult Index()

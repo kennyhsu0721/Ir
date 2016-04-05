@@ -1,6 +1,6 @@
 ﻿/// <autosync enabled="true" />
 /// <reference path="../gulpfile.js" />
-/// <reference path="apps/lab/lab1/lab1c.js" />
+/// <reference path="apps/lab/lab01/lab1.c.js" />
 /// <reference path="ir/base/ir.app.js" />
 /// <reference path="js/site.js" />
 /// <reference path="lib/angular/angular.js" />
