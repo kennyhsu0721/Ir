@@ -16,5 +16,10 @@ namespace Ir.Web.UI.Areas.Lab1.Controllers
         {
             return View();
         }
+
+        public IActionResult Q()
+        {
+            return View();
+        }
     }
 }
